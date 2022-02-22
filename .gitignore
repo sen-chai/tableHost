@@ -1,0 +1,7 @@
+.py[co]
+node_modules/
+
+__pycache__/
+*-lock.json
+
+.env
