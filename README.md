@@ -1,5 +1,5 @@
 many1#Go
-ssh root@144.126.218.243
+ssh sen@144.126.218.243
 
 <!-- todo -->
 - _react table break down_

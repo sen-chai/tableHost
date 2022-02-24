@@ -1,11 +1,9 @@
 import requests
 import json
 import os
-from dotenv import load_dotenv
 
 DB_DIR = './db/development/'
 DB_DIR = './db/production/'
-load_dotenv()
 API_KEY = os.getenv('OMIE_TEST_KEY')
 API_SECRET = os.getenv('OMIE_TEST_SECRET')
 
