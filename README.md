@@ -1,5 +1,6 @@
 many1#Go
 ssh sen@144.126.218.243
+144.126.218.243/pedidos
 
 <!-- todo -->
 - _react table break down_
